@@ -1,0 +1,140 @@
+Ruby
+Statistics
+Kernel Density Estimation
+R
+R.The R
+r
+Convolutional Neural Networks
+Neural Networks
+Neural Network
+Convolutional Neural Network
+modelsArtificial Neural Networks
+Recurrent Neural Network
+word2vec
+Data
+analysis Kibana
+Analysis ofStructured Data
+data scienceA
+Singular Matrix
+Confusion Matrix
+Matrix
+test-setModel fittingOverall accuracyBetter
+CUDA
+Deep Learning
+Mahout
+Python
+Execute Python
+0.My Python
+Python API
+bit Python
+Information Security
+System Security
+API
+URLGetRankedNamedEntities API
+Java API
+PAM
+KNN
+knn clusfier;normalize
+SIFT
+text categorization Largeron
+Scikit-learn
+findNeighbors - get
+SQL
+Algorithms
+kernel SVC.If
+Scala
+scala
+MapReduce
+Node.js
+PCA
+example PCA
+Decision Trees
+Decision Tree
+Hadoop
+Unsupervised Deep Learning
+Facebook
+Web Searchand Data Mining
+Data Mining
+Gaussian
+Nearest Neighbors
+Nearest Neighbour
+Regex
+GLM
+PHP
+PhP SDK
+ElasticSearch
+Elasticsearch
+GATE
+Apache Spark
+SVM
+svm
+sklearn SVM
+thing SVM
+Pegasos SVM
+example SVM
+Matlab SVM
+svm Categorical
+SciPy
+NumPy
+Numpy
+Java
+Java SDK
+Java APIs
+Java Library
+Stanford NLP - Produces
+C++
+legacy c++
+Prediction
+GPU
+Word2Vec GPU
+Nvidia GPU
+Random Forest
+Random Forests
+LDA
+NLTK
+NLTK classifiersFor
+NLTK HunPos
+training DATA
+Gradient
+Projected Gradient
+Likelihood
+probability 0.The RandomForest
+Linear Regression
+Orange
+Computer Vision
+info providedUse Computer Vision
+K-means
+k-Fold
+k-fold
+k-means
+MATLAB
+Matlab
+MatLab
+matlab
+DBN
+Improved Classification
+Classification
+Genetic Algorithms
+OpenCV
+OpenCV +
+face recognition taskIn
+Vector
+Avni ClusteringParagraph Vector
+Support Vector Classifier
+Weka
+weka GUI
+HashMap
+RBM
+NLP
+WordNet
+AUC
+cross-validation procedureBut
+SSAS
+kaggle
+Hierarchical Agglomerative Clustering
+Azure HDInsight
+Azure
+Azure Blob
+Caffe
+Pandas
+Linux
